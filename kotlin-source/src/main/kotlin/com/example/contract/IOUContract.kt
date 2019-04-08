@@ -44,6 +44,7 @@ open class IOUContract : Contract {
         }
     }
 
+
     /**
      * This contract only implements one command, Create.
      */
